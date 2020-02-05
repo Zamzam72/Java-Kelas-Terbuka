@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5350779-204c-45ed-b474-d534e843ef9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WutA2YSwuhMXz3pmlGenpV4Twc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../011 - array" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.latihan.Main" />
+      <module name="020 - project crud" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5350779-204c-45ed-b474-d534e843ef9a" name="Default Changelist" comment="" />
+      <created>1580011160477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580011160477</updated>
+      <workItem from="1580011163076" duration="3896000" />
+      <workItem from="1580133967392" duration="609000" />
+      <workItem from="1580216127877" duration="795000" />
+      <workItem from="1580291581335" duration="5983000" />
+      <workItem from="1580337811809" duration="182000" />
+      <workItem from="1580350359049" duration="5460000" />
+      <workItem from="1580378093761" duration="531000" />
+      <workItem from="1580383556390" duration="968000" />
+      <workItem from="1580470873407" duration="1631000" />
+      <workItem from="1580472522768" duration="849000" />
+      <workItem from="1580473410033" duration="6167000" />
+      <workItem from="1580491143313" duration="166000" />
+      <workItem from="1580520598037" duration="1453000" />
+      <workItem from="1580534560576" duration="393000" />
+      <workItem from="1580719064278" duration="1065000" />
+      <workItem from="1580720602152" duration="83000" />
+      <workItem from="1580893495413" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580306482844">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.832@0.0.1536.832" timestamp="1580306482844" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1580719371278">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1580719371278" />
+    <state width="542" height="704" key="GridCell.Tab.0.bottom" timestamp="1580529864985">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="542" height="704" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1580529864985" />
+    <state width="542" height="704" key="GridCell.Tab.0.center" timestamp="1580529864985">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="542" height="704" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1580529864985" />
+    <state width="542" height="704" key="GridCell.Tab.0.left" timestamp="1580529864985">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="542" height="704" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1580529864985" />
+    <state width="542" height="704" key="GridCell.Tab.0.right" timestamp="1580529864985">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="542" height="704" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1580529864985" />
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1580893511661">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="465" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.832@0.0.1536.832" timestamp="1580893511661" />
+    <state x="209" y="38" key="new project wizard" timestamp="1580719373981">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.832@0.0.1536.832" timestamp="1580719373981" />
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup" timestamp="1580487319728">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="431" y="153" width="672" height="678" key="search.everywhere.popup/0.0.1536.832@0.0.1536.832" timestamp="1580487319728" />
+  </component>
+</project>
